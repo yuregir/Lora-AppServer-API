@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: swagger-client
+Version: 1.0.0
+Summary: LoRa App Server REST API
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description:      For more information about the usage of the LoRa App Server (REST) API, see [https://docs.loraserver.io/lora-app-server/api/](https://docs.loraserver.io/lora-app-server/api/).   # noqa: E501
+            
+Keywords: Swagger,LoRa App Server REST API
+Platform: UNKNOWN
