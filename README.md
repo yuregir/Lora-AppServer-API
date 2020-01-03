@@ -1,3 +1,4 @@
+## Metacore Lora Server API client
 
  For more information about the usage of the LoRa App Server (REST) API, see [https://docs.loraserver.io/lora-app-server/api/](https://docs.loraserver.io/lora-app-server/api/). 
 
